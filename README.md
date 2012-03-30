@@ -1,6 +1,6 @@
 ## About
 
-The Demo of PhoneGap 1.5
+The demo of PhoneGap 1.5 version
 
 ## Resources
 
