@@ -7,3 +7,7 @@ The demo of PhoneGap 1.5
 * [PhoneGap](http://phonegap.com/)
 * [PhoneGap API](http://docs.phonegap.com/en/1.5.0/index.html)
 * [Tools](http://phonegap.com/tools)
+
+## Homepage
+
+* http://dreamsky.github.com/PhonegapDemo/
